@@ -50,7 +50,6 @@
 | 3-1 | 코드기반 캐글 예시 문제 풀이 영상  |  2021.10.11 | [바로가기](https://github.com/SejongAI-Challenge/2021.AI.Challenge/issues/2) |
 | 3-2 | 툴기반 캐글 예시 문제 풀이 영상 (기출포함)  |  2021.10.11  | [바로가기](https://github.com/SejongAI-Challenge/2021.AI.Challenge/issues/2) |
 | 4 | 화면 녹화 교육 영상  |  2021.10.11 | [비디오](https://github.com/SejongAI-Challenge/2021.AI.Challenge/issues/3) |
-| 5 | 문제 해설 영상 제출 방법 교육 영상  |  2021.09.27 예정 | [비디오]() |
 
 
 
