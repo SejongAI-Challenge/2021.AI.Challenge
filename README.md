@@ -43,13 +43,13 @@
 
 
 ## 사전 교육 관련
-| | 사전 교육 | 업로드 일시 | 비디오 링크 |
-|:--:|:--:|:--:|:--:|
-| 1 | 오픈 카톡방  |  2021.08.17  | [바로가기](https://open.kakao.com/o/gzPCsMud) |
-| 2 | 캐글 사용법 사전 교육 영상  |  2021.10.11 | [바로가기](https://github.com/SejongAI-Challenge/2021.AI.Challenge/issues/1) |
-| 3-1 | 코드기반 캐글 예시 문제 풀이 영상  |  2021.10.11 | [바로가기](https://github.com/SejongAI-Challenge/2021.AI.Challenge/issues/2) |
-| 3-2 | 툴기반 캐글 예시 문제 풀이 영상 (기출포함)  |  2021.10.11  | [바로가기](https://github.com/SejongAI-Challenge/2021.AI.Challenge/issues/4) |
-| 4 | 화면 녹화 교육 영상  |  2021.10.11 | [비디오](https://github.com/SejongAI-Challenge/2021.AI.Challenge/issues/3) |
+| | 사전 교육 | 업로드 일시 | 비디오 링크 | 기타 | 
+|:--:|:--:|:--:|:--:|:--:|
+| 1 | 오픈 카톡방  |  2021.08.17  | [바로가기](https://open.kakao.com/o/gzPCsMud) | |
+| 2 | 캐글 사용법 사전 교육 영상  |  2021.10.11 | [바로가기](https://github.com/SejongAI-Challenge/2021.AI.Challenge/issues/1) | |
+| 3-1 | 코드기반 캐글 예시 문제 풀이 영상  |  2021.10.11 | [바로가기](https://github.com/SejongAI-Challenge/2021.AI.Challenge/issues/2) | 전공자, 고학년 용  |
+| 3-2 | 툴기반 캐글 예시 문제 풀이 영상 (기출포함)  |  2021.10.11  | [바로가기](https://github.com/SejongAI-Challenge/2021.AI.Challenge/issues/4) | 비전공자, 저학년 용|
+| 4 | 화면 녹화 교육 영상  |  2021.10.11 | [비디오](https://github.com/SejongAI-Challenge/2021.AI.Challenge/issues/3) | |
 
 
 
