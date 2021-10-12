@@ -29,8 +29,7 @@
 
 
 ## 홍보영상
-- [패러디ver](https://youtu.be/V7SaW5KQ32M)
-- [공식ver](https://youtu.be/3N0dfhFpdAA)
+- [패러디 버전](https://youtu.be/V7SaW5KQ32M), [공식 버전](https://youtu.be/3N0dfhFpdAA)
 
 ## 기타
 - 수고해주시는 분들 : 김미숙, 김성한, 이현석, 전창재, 최유경
