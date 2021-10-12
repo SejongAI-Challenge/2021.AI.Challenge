@@ -1,12 +1,11 @@
 # 제 2회 인공지능 챌린지
-- 수고해주시는 분들 : 김미숙, 김성한, 이현석, 전창재, 최유경
-
 
 ## 두드림 신청
 - https://do.sejong.ac.kr/ko/program/all/view/1761
 - 2021년 10월 12일() - 2021년 10월 31일(일)
  
-
+## 안내문
+- [구체적인 일정](https://github.com/SejongAI-Challenge/2021.AI.Challenge/blob/main/Schedule.md)
 
 ## 사전 교육 
 ### 경시대회 준비 관련
@@ -29,5 +28,7 @@
 
 
 
+## 기타
+- 수고해주시는 분들 : 김미숙, 김성한, 이현석, 전창재, 최유경
 
 
