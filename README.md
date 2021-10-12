@@ -42,12 +42,13 @@
 - 2차: 타당성, 창의성, 유창성
 
 
+
 ## 경시대회 준비 관련
 | | 사전 교육 | 업로드 일시 | 비디오 링크 | 기타 | 
 |:--:|:--:|:--:|:--:|:--:|
 | 1 | 오픈 카톡방  |  2021.08.17  | [바로가기](https://open.kakao.com/o/gzPCsMud) | |
-| 2 | 캐글 사용법 영상  |  2021.10.11 | [바로가기](https://github.com/SejongAI-Challenge/2021.AI.Challenge/issues/1) | |
-| 4 | 화면 녹화 영상  |  2021.10.11 | [비디오](https://github.com/SejongAI-Challenge/2021.AI.Challenge/issues/3) | |
+| 2 | 캐글 사용법  |  2021.10.11 | [바로가기](https://github.com/SejongAI-Challenge/2021.AI.Challenge/issues/1) | |
+| 3 | 화면 녹화   |  2021.10.11 | [비디오](https://github.com/SejongAI-Challenge/2021.AI.Challenge/issues/3) | |
 
 
 ## 전공자를 위한 사전 교육 관련
@@ -58,7 +59,7 @@
 ## 비전공자를 위한 사전 교육 관련
 | | 사전 교육 | 업로드 일시 | 비디오 링크 | 기타 | 
 |:--:|:--:|:--:|:--:|:--:|
-| 1 | (오렌지3) 캐글 예시 문제 풀이 영상 + 기출해설포함 |  2021.10.11  | [바로가기](https://github.com/SejongAI-Challenge/2021.AI.Challenge/issues/4) | 비전공자, 저학년 용|
+| 1 | (오렌지3) 캐글 예시 문제 풀이 영상 |  2021.10.11  | [바로가기](https://github.com/SejongAI-Challenge/2021.AI.Challenge/issues/4) | 비전공자, 저학년 용|
 
 
 
