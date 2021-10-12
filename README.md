@@ -7,6 +7,7 @@
 ## 안내문
 - [구체적인 일정](https://github.com/SejongAI-Challenge/2021.AI.Challenge/blob/main/Schedule.md)
 
+
 ## 사전 교육 
 ### 경시대회 준비 관련
 | | 사전 교육 | 업로드 일시 | 비디오 링크 | 기타 | 
@@ -27,6 +28,9 @@
 | 1 | (오렌지3) 캐글 예시 문제 풀이 영상 |  2021.10.11  | [바로가기](https://github.com/SejongAI-Challenge/2021.AI.Challenge/issues/4) | 비전공자, 저학년 용|
 
 
+## 홍보영상
+- [패러디ver](https://youtu.be/V7SaW5KQ32M)
+- [공식ver](https://youtu.be/3N0dfhFpdAA)
 
 ## 기타
 - 수고해주시는 분들 : 김미숙, 김성한, 이현석, 전창재, 최유경
