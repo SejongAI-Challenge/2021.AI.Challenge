@@ -1,7 +1,7 @@
 
 
 ## 안내문
-- [안내문 PDF](https://github.com/SejongAI-Challenge/2021.AI.Challenge/blob/main/%EC%A0%9C8%ED%9A%8C_SWAI%EA%B2%BD%EC%8B%9C%EB%8C%80%ED%9A%8C_%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5_%EC%B1%8C%EB%A6%B0%EC%A7%80%EC%95%88%EB%82%B4%EB%AC%B8.pdf)
+- [안내문 PDF](https://github.com/SejongAI-Challenge/2021.AI.Challenge/blob/main/%E1%84%8C%E1%85%A68%E1%84%92%E1%85%ACSWAI%E1%84%80%E1%85%A7%E1%86%BC%E1%84%89%E1%85%B5%E1%84%83%E1%85%A2%E1%84%92%E1%85%AC%E1%84%8B%E1%85%A1%E1%86%AB%E1%84%82%E1%85%A2%E1%84%86%E1%85%AE%E1%86%AB.pdf)
 
 ## 1차 챌린지: 11월 8일(월) 상세 일정
 ### <1부 스케줄>
