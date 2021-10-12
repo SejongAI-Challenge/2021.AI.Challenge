@@ -48,7 +48,7 @@
 |:--:|:--:|:--:|:--:|:--:|
 | 1 | 오픈 카톡방  |  2021.08.17  | [바로가기](https://open.kakao.com/o/gzPCsMud) | |
 | 2 | 캐글 사용법  |  2021.10.11 | [바로가기](https://github.com/SejongAI-Challenge/2021.AI.Challenge/issues/1) | |
-| 3 | 화면 녹화   |  2021.10.11 | [비디오](https://github.com/SejongAI-Challenge/2021.AI.Challenge/issues/3) | |
+| 3 | 화면 녹화   |  2021.10.11 | [바로가기](https://github.com/SejongAI-Challenge/2021.AI.Challenge/issues/3) | |
 
 
 ### 전공자를 위한 캐글 교육 (기초편)
